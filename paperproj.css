@@ -143,6 +143,7 @@ button .img:hover
     background: gray,rgba(95, 93, 93, 0.5);
     transition: .5 ease-in-out;
     transform: scale(1.1);
+    cursor: pointer;
 }
 
 footer
